@@ -1,0 +1,4 @@
+Git
+	- Distributed version control system
+	- tracks the changes made to the repository
+	- Acts a backup for the version history
